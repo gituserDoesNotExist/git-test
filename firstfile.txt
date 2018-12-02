@@ -1,3 +1,0 @@
-first line
-
-second line "change from master 2"
